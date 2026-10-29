@@ -1,0 +1,3 @@
+echo-client
+*.o
+*.out
