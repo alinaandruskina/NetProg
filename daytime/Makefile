@@ -2,7 +2,7 @@ CXX = g++
 CXXFLAGS = -std=c++11 -Wall -Wextra
 
 TARGET = daytime-client
-SOURCE = client.cpp
+SOURCE = main.cpp
 
 all: $(TARGET)
 
